@@ -1,0 +1,180 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container-inicio {
+  height: 100vh;
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)), url('../img/inicio-min.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+  gap: 30px;
+}
+
+h1 {
+  font-family: "Alfa Slab One", serif;
+  font-weight: 600;
+  font-style: normal;
+  color: #fff;
+  font-size: 45px;
+}
+
+.img-logo {
+  height: 70px;
+}
+
+.container-img-uno {
+  background-image: url('../img/food-one-min.jpg');
+  flex: 1;
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container-img-dos {
+  background-image: url('../img/food-two-min.jpg');
+  flex: 1;
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container-img-tres {
+  background-image: url('../img/food-three-min.jpg');
+  flex: 1;
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container-imgs {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
+
+.container-header {
+  position: fixed;
+  top: 0;
+  width: 100vw;
+}
+
+.logo-img-header{
+  height: 25px;
+  color: #fff;
+}
+
+.container-nav-header{
+  background-color: transparent;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 30px;
+  transition: background-color 0.3s ease;
+}
+
+.container-nav-header:hover {
+  background-color: #f5f5f5;
+}
+
+.btn-links {
+  width: 180px;
+  background: transparent;
+  border: 2px solid #fff;
+  display: flex;
+  justify-content: center;
+  padding: 15px 0px;
+  transition: border-color 0.3s ease;
+  box-sizing: border-box;
+}
+
+.link {
+  color: #fff;
+  font-family: "Alfa Slab One", serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 25px;
+}
+
+.btn-links:hover {
+  border-color: transparent;
+}
+
+.btn-links:hover .link {
+  border-bottom: 2px solid #fff;
+  box-sizing: border-box;
+}
+
+.container-links {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 25px;
+}
+
+.container-btn-links {
+  display: flex;
+  gap: 30px;
+}
+
+.container-icons-headers-settings {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.container-footer {
+  background-color: #f5f5f5;
+}
+
+.titulo-session-footer {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #484848;
+  font-size: 13px;
+  margin-bottom: 5px;
+}
+
+.parrafo-session-footer {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: #484848;
+  font-size: 14px;
+}
+
+.container-social-footer {
+  padding: 40px 60px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.container-derechos-footer {
+  padding: 15px 20px;
+  border-top: 1px solid #E9E9E9;
+}
+
+.parrafo-derechos {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: #484848;
+  font-size: 14px;
+  text-align: center;
+}
+
+.container-links-footer {
+  display: grid;
+  gap: 10px;
+  margin-top: 10px;
+}
