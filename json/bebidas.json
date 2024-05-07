@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "img": "https://images.pexels.com/photos/338713/pexels-photo-338713.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "McNífica",
+        "descripcion": "",
+        "precio": "38.000"
+    },
+    {
+        "id": 2,
+        "img": "https://images.pexels.com/photos/1089930/pexels-photo-1089930.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Big Mac",
+        "descripcion": "",
+        "precio": "23.000"
+    },
+    {
+        "id": 3,
+        "img": "https://images.pexels.com/photos/3323682/pexels-photo-3323682.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "McBacon",
+        "descripcion": "",
+        "precio": "54.000"
+    },
+    {
+        "id": 4,
+        "img": "https://images.pexels.com/photos/1200348/pexels-photo-1200348.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "HbCallejera",
+        "descripcion": "",
+        "precio": "14.500"
+    },
+    {
+        "id": 5,
+        "img": "https://images.pexels.com/photos/2789328/pexels-photo-2789328.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "TdCallejera",
+        "descripcion": "",
+        "precio": "32.200"
+    },
+    {
+        "id": 6,
+        "img": "https://images.pexels.com/photos/1484678/pexels-photo-1484678.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Corral Casera",
+        "descripcion": "",
+        "precio": "51.000"
+    },
+    {
+        "id": 7,
+        "img": "https://images.pexels.com/photos/1564534/pexels-photo-1564534.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Corralera",
+        "descripcion": "",
+        "precio": "29.800"
+    },
+    {
+        "id": 8,
+        "img": "https://images.pexels.com/photos/342971/pexels-photo-342971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "HbHawaiana",
+        "descripcion": "",
+        "precio": "17.500"
+    },
+    {
+        "id": 9,
+        "img": "https://images.pexels.com/photos/1459338/pexels-photo-1459338.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "HbCosteña",
+        "descripcion": "",
+        "precio": "33.300"
+    },
+    {
+        "id": 10,
+        "img": "https://images.pexels.com/photos/2362391/pexels-photo-2362391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Corral Pollo",
+        "descripcion": "",
+        "precio": "26.000"
+    },
+    {
+        "id": 11,
+        "img": "https://images.pexels.com/photos/2775860/pexels-photo-2775860.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Doble Doble",
+        "descripcion": "",
+        "precio": "20.000"
+    },
+    {
+        "id": 12,
+        "img": "https://images.pexels.com/photos/1838611/pexels-photo-1838611.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "",
+        "descripcion": "Corral Criolla",
+        "precio": "35.100"
+    }
+]
