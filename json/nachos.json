@@ -1,86 +1,86 @@
 [
     {
-        "id": 1,
+        "id": 331,
         "img": "https://images.pexels.com/photos/1200354/pexels-photo-1200354.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "McNífica",
-        "descripcion": "",
+        "titulo": "Nachos Clásicos",
+        "descripcion": "Nachos tradicionales con queso derretido y jalapeños.",
         "precio": "38.000"
     },
     {
-        "id": 2,
+        "id": 332,
         "img": "https://images.pexels.com/photos/3904035/pexels-photo-3904035.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Big Mac",
-        "descripcion": "",
+        "titulo": "Nachos Tex-Mex",
+        "descripcion": "Nachos con carne molida, frijoles, queso y guacamole.",
         "precio": "23.000"
     },
     {
-        "id": 3,
+        "id": 333,
         "img": "https://images.pexels.com/photos/6605308/pexels-photo-6605308.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "McBacon",
-        "descripcion": "",
+        "titulo": "Nachos de Pollo",
+        "descripcion": "Nachos cubiertos con pollo desmenuzado, queso y salsa BBQ.",
         "precio": "54.000"
     },
     {
-        "id": 4,
+        "id": 334,
         "img": "https://images.pexels.com/photos/7613440/pexels-photo-7613440.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "HbCallejera",
-        "descripcion": "",
+        "titulo": "Nachos Vegetarianos",
+        "descripcion": "Nachos con frijoles, maíz, pimientos y queso.",
         "precio": "14.500"
     },
     {
-        "id": 5,
+        "id": 335,
         "img": "https://images.pexels.com/photos/4968307/pexels-photo-4968307.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "TdCallejera",
-        "descripcion": "",
+        "titulo": "Nachos Supremos",
+        "descripcion": "Nachos con carne molida, jalapeños, queso, guacamole y crema agria.",
         "precio": "32.200"
     },
     {
-        "id": 6,
+        "id": 336,
         "img": "https://images.pexels.com/photos/15801068/pexels-photo-15801068/free-photo-of-comida-plato-almuerzo-nachos.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Corral Casera",
-        "descripcion": "",
+        "titulo": "Nachos Caseros",
+        "descripcion": "Nachos hechos en casa con queso cheddar derretido y pico de gallo.",
         "precio": "51.000"
     },
     {
-        "id": 7,
+        "id": 337,
         "img": "https://images.pexels.com/photos/8523512/pexels-photo-8523512.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Corralera",
-        "descripcion": "",
+        "titulo": "Nachos con Carne Asada",
+        "descripcion": "Nachos cubiertos con carne asada, cebolla y cilantro.",
         "precio": "29.800"
     },
     {
-        "id": 8,
+        "id": 338,
         "img": "https://images.pexels.com/photos/5737374/pexels-photo-5737374.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "HbHawaiana",
-        "descripcion": "",
+        "titulo": "Nachos Hawaianos",
+        "descripcion": "Nachos con piña, jamón, queso y salsa agridulce.",
         "precio": "17.500"
     },
     {
-        "id": 9,
+        "id": 339,
         "img": "https://images.pexels.com/photos/5848735/pexels-photo-5848735.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "HbCosteña",
-        "descripcion": "",
+        "titulo": "Nachos de Mariscos",
+        "descripcion": "Nachos con camarones, cangrejo, queso y salsa de chipotle.",
         "precio": "33.300"
     },
     {
-        "id": 10,
+        "id": 340,
         "img": "https://images.pexels.com/photos/8522691/pexels-photo-8522691.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Corral Pollo",
-        "descripcion": "",
+        "titulo": "Nachos de Pollo al Pastor",
+        "descripcion": "Nachos con pollo al pastor, piña y queso derretido.",
         "precio": "26.000"
     },
     {
-        "id": 11,
+        "id": 341,
         "img": "https://images.pexels.com/photos/7601335/pexels-photo-7601335.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Doble Doble",
-        "descripcion": "",
+        "titulo": "Nachos Dobles",
+        "descripcion": "Nachos con doble porción de queso, carne y jalapeños.",
         "precio": "20.000"
     },
     {
-        "id": 12,
+        "id": 342,
         "img": "https://images.pexels.com/photos/8158389/pexels-photo-8158389.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "",
-        "descripcion": "Corral Criolla",
+        "titulo": "Nachos Criollos",
+        "descripcion": "Nachos con carne desmechada, frijoles y salsa criolla.",
         "precio": "35.100"
     }
 ]

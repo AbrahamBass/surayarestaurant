@@ -1,86 +1,86 @@
 [
     {
-        "id": 1,
+        "id": 221,
         "img": "https://images.pexels.com/photos/13814644/pexels-photo-13814644.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "McNífica",
-        "descripcion": "",
+        "titulo": "Pizza Margherita",
+        "descripcion": "Clásica pizza italiana con tomate, mozzarella y albahaca fresca.",
         "precio": "38.000"
     },
     {
-        "id": 2,
+        "id": 222,
         "img": "https://images.pexels.com/photos/2233348/pexels-photo-2233348.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Big Mac",
-        "descripcion": "",
+        "titulo": "Pizza Pepperoni",
+        "descripcion": "Deliciosa pizza con pepperoni, queso mozzarella y salsa de tomate.",
         "precio": "23.000"
     },
     {
-        "id": 3,
+        "id": 223,
         "img": "https://images.pexels.com/photos/845808/pexels-photo-845808.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "McBacon",
-        "descripcion": "",
+        "titulo": "Pizza Cuatro Quesos",
+        "descripcion": "Mezcla de quesos mozzarella, gorgonzola, parmesano y ricotta.",
         "precio": "54.000"
     },
     {
-        "id": 4,
+        "id": 224,
         "img": "https://images.pexels.com/photos/845798/pexels-photo-845798.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "HbCallejera",
-        "descripcion": "",
-        "precio": "14.500"
+        "titulo": "Pizza BBQ Chicken",
+        "descripcion": "Pollo a la barbacoa, cebolla roja y cilantro.",
+        "precio": "33.500"
     },
     {
-        "id": 5,
+        "id": 225,
         "img": "https://images.pexels.com/photos/2180875/pexels-photo-2180875.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "TdCallejera",
-        "descripcion": "",
+        "titulo": "Pizza Hawaiana",
+        "descripcion": "Piña, jamón, queso mozzarella y salsa de tomate.",
         "precio": "32.200"
     },
     {
-        "id": 6,
+        "id": 226,
         "img": "https://images.pexels.com/photos/2762942/pexels-photo-2762942.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Corral Casera",
-        "descripcion": "",
-        "precio": "51.000"
+        "titulo": "Pizza Veggie",
+        "descripcion": "Variedad de verduras frescas, mozzarella y salsa de tomate.",
+        "precio": "41.000"
     },
     {
-        "id": 7,
+        "id": 227,
         "img": "https://images.pexels.com/photos/2471171/pexels-photo-2471171.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Corralera",
-        "descripcion": "",
-        "precio": "29.800"
+        "titulo": "Pizza Meat Lovers",
+        "descripcion": "Salami, jamón, pepperoni, tocino y salsa de tomate.",
+        "precio": "48.800"
     },
     {
-        "id": 8,
+        "id": 228,
         "img": "https://images.pexels.com/photos/3343626/pexels-photo-3343626.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "HbHawaiana",
-        "descripcion": "",
-        "precio": "17.500"
+        "titulo": "Pizza Mexicana",
+        "descripcion": "Chorizo, jalapeños, maíz y queso cheddar.",
+        "precio": "37.500"
     },
     {
-        "id": 9,
+        "id": 229,
         "img": "https://images.pexels.com/photos/315755/pexels-photo-315755.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "HbCosteña",
-        "descripcion": "",
-        "precio": "33.300"
+        "titulo": "Pizza Carbonara",
+        "descripcion": "Base de crema, bacon, huevo y queso parmesano.",
+        "precio": "45.300"
     },
     {
-        "id": 10,
+        "id": 230,
         "img": "https://images.pexels.com/photos/5792322/pexels-photo-5792322.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Corral Pollo",
-        "descripcion": "",
-        "precio": "26.000"
+        "titulo": "Pizza Caprese",
+        "descripcion": "Tomate fresco, mozzarella, albahaca y reducción balsámica.",
+        "precio": "39.000"
     },
     {
-        "id": 11,
+        "id": 231,
         "img": "https://images.pexels.com/photos/4004468/pexels-photo-4004468.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Doble Doble",
-        "descripcion": "",
-        "precio": "20.000"
+        "titulo": "Pizza Prosciutto",
+        "descripcion": "Jamón serrano, rúcula y lascas de parmesano.",
+        "precio": "47.000"
     },
     {
-        "id": 12,
+        "id": 232,
         "img": "https://images.pexels.com/photos/5792329/pexels-photo-5792329.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "",
-        "descripcion": "Corral Criolla",
-        "precio": "35.100"
+        "titulo": "Pizza Marinara",
+        "descripcion": "Salsa de tomate, ajo, orégano y aceite de oliva.",
+        "precio": "31.100"
     }
 ]

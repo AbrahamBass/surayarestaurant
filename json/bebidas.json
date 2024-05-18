@@ -1,86 +1,86 @@
 [
     {
-        "id": 1,
+        "id": 37,
         "img": "https://images.pexels.com/photos/338713/pexels-photo-338713.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "McNífica",
-        "descripcion": "",
-        "precio": "38.000"
+        "titulo": "Mojito Clásico",
+        "descripcion": "Un refrescante mojito con ron, hierbabuena, y un toque de limón.",
+        "precio": "18.000"
     },
     {
-        "id": 2,
+        "id": 38,
         "img": "https://images.pexels.com/photos/1089930/pexels-photo-1089930.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Big Mac",
-        "descripcion": "",
-        "precio": "23.000"
+        "titulo": "Cerveza Artesanal",
+        "descripcion": "Cerveza artesanal local, perfecta para acompañar cualquier comida.",
+        "precio": "10.000"
     },
     {
-        "id": 3,
+        "id": 39,
         "img": "https://images.pexels.com/photos/3323682/pexels-photo-3323682.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "McBacon",
-        "descripcion": "",
-        "precio": "54.000"
-    },
-    {
-        "id": 4,
-        "img": "https://images.pexels.com/photos/1200348/pexels-photo-1200348.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "HbCallejera",
-        "descripcion": "",
-        "precio": "14.500"
-    },
-    {
-        "id": 5,
-        "img": "https://images.pexels.com/photos/2789328/pexels-photo-2789328.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "TdCallejera",
-        "descripcion": "",
-        "precio": "32.200"
-    },
-    {
-        "id": 6,
-        "img": "https://images.pexels.com/photos/1484678/pexels-photo-1484678.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Corral Casera",
-        "descripcion": "",
-        "precio": "51.000"
-    },
-    {
-        "id": 7,
-        "img": "https://images.pexels.com/photos/1564534/pexels-photo-1564534.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Corralera",
-        "descripcion": "",
-        "precio": "29.800"
-    },
-    {
-        "id": 8,
-        "img": "https://images.pexels.com/photos/342971/pexels-photo-342971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "HbHawaiana",
-        "descripcion": "",
-        "precio": "17.500"
-    },
-    {
-        "id": 9,
-        "img": "https://images.pexels.com/photos/1459338/pexels-photo-1459338.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "HbCosteña",
-        "descripcion": "",
-        "precio": "33.300"
-    },
-    {
-        "id": 10,
-        "img": "https://images.pexels.com/photos/2362391/pexels-photo-2362391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Corral Pollo",
-        "descripcion": "",
-        "precio": "26.000"
-    },
-    {
-        "id": 11,
-        "img": "https://images.pexels.com/photos/2775860/pexels-photo-2775860.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Doble Doble",
-        "descripcion": "",
+        "titulo": "Margarita Frozen",
+        "descripcion": "Margarita helada con tequila, triple sec y jugo de limón, servida en un vaso escarchado.",
         "precio": "20.000"
     },
     {
-        "id": 12,
+        "id": 40,
+        "img": "https://images.pexels.com/photos/1200348/pexels-photo-1200348.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Piña Colada",
+        "descripcion": "Una mezcla tropical de ron, crema de coco y jugo de piña, servida con hielo.",
+        "precio": "22.000"
+    },
+    {
+        "id": 41,
+        "img": "https://images.pexels.com/photos/2789328/pexels-photo-2789328.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Caipirinha",
+        "descripcion": "Tradicional cóctel brasileño hecho con cachaça, azúcar y limón.",
+        "precio": "19.000"
+    },
+    {
+        "id": 42,
+        "img": "https://images.pexels.com/photos/1484678/pexels-photo-1484678.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Sangría",
+        "descripcion": "Bebida refrescante a base de vino tinto, frutas frescas y un toque de licor.",
+        "precio": "25.000"
+    },
+    {
+        "id": 43,
+        "img": "https://images.pexels.com/photos/1564534/pexels-photo-1564534.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Tequila Sunrise",
+        "descripcion": "Cóctel vibrante con tequila, jugo de naranja y granadina.",
+        "precio": "21.000"
+    },
+    {
+        "id": 44,
+        "img": "https://images.pexels.com/photos/342971/pexels-photo-342971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Daiquiri de Fresa",
+        "descripcion": "Cóctel helado con ron, fresas frescas y un toque de limón.",
+        "precio": "23.000"
+    },
+    {
+        "id": 45,
+        "img": "https://images.pexels.com/photos/1459338/pexels-photo-1459338.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Gin Tonic",
+        "descripcion": "Clásico gin tonic servido con una rodaja de limón y hielo.",
+        "precio": "24.000"
+    },
+    {
+        "id": 46,
+        "img": "https://images.pexels.com/photos/2362391/pexels-photo-2362391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Bloody Mary",
+        "descripcion": "Cóctel de vodka con jugo de tomate, especias y una rodaja de limón.",
+        "precio": "26.000"
+    },
+    {
+        "id": 47,
+        "img": "https://images.pexels.com/photos/2775860/pexels-photo-2775860.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Negroni",
+        "descripcion": "Cóctel italiano con ginebra, vermut rosso y Campari.",
+        "precio": "28.000"
+    },
+    {
+        "id": 48,
         "img": "https://images.pexels.com/photos/1838611/pexels-photo-1838611.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "",
-        "descripcion": "Corral Criolla",
-        "precio": "35.100"
+        "titulo": "Cosmopolitan",
+        "descripcion": "Cóctel elegante con vodka, triple sec, jugo de arándano y limón.",
+        "precio": "22.500"
     }
 ]

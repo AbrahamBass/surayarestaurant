@@ -10,6 +10,7 @@ const Nachos = "../json/nachos.json";
 
 const container_foods = document.getElementById("session-foods");
 const titleNavItems = document.querySelectorAll(".title-nav-food");
+const containersItemsFood = document.querySelectorAll(".single-container-food");
 
 const render = (item) => {
   const container_food = document.createElement("div");
@@ -26,6 +27,16 @@ const render = (item) => {
   container_food.appendChild(title_price_food);
 
   container_foods.appendChild(container_food);
+
+  container_food.addEventListener("click", () => {
+    const urlParams = new URLSearchParams({
+      img: item.img,
+      precio: item.precio,
+      titulo: item.titulo,
+      descripcion: item.descripcion
+    });
+    window.location.href = `detalle.html?${urlParams.toString()}`;
+  });
 };
 
 const path = async (url) => {
@@ -85,6 +96,7 @@ titleNavItems.forEach((item) => {
     }
   });
 });
+
 
 document.addEventListener("DOMContentLoaded", () => {
   fetch(Hamburguesa)

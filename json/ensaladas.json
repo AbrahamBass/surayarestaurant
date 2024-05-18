@@ -1,86 +1,86 @@
 [
     {
-        "id": 1,
+        "id": 61,
         "img": "https://images.pexels.com/photos/1211887/pexels-photo-1211887.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "McNífica",
-        "descripcion": "",
-        "precio": "38.000"
+        "titulo": "Ensalada César",
+        "descripcion": "Clásica ensalada César con lechuga romana, crutones y aderezo César.",
+        "precio": "18.000"
     },
     {
-        "id": 2,
+        "id": 62,
         "img": "https://images.pexels.com/photos/2097090/pexels-photo-2097090.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Big Mac",
-        "descripcion": "",
-        "precio": "23.000"
+        "titulo": "Ensalada de Pollo a la Parrilla",
+        "descripcion": "Ensalada fresca con tiras de pollo a la parrilla, tomates cherry y aderezo ranch.",
+        "precio": "22.000"
     },
     {
-        "id": 3,
+        "id": 63,
         "img": "https://images.pexels.com/photos/2862154/pexels-photo-2862154.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "McBacon",
-        "descripcion": "",
-        "precio": "54.000"
-    },
-    {
-        "id": 4,
-        "img": "https://images.pexels.com/photos/1639556/pexels-photo-1639556.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "HbCallejera",
-        "descripcion": "",
-        "precio": "14.500"
-    },
-    {
-        "id": 5,
-        "img": "https://images.pexels.com/photos/1332275/pexels-photo-1332275.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "TdCallejera",
-        "descripcion": "",
-        "precio": "32.200"
-    },
-    {
-        "id": 6,
-        "img": "https://images.pexels.com/photos/18363028/pexels-photo-18363028/free-photo-of-vegetales-verduras-restaurante-sopa.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Corral Casera",
-        "descripcion": "",
-        "precio": "51.000"
-    },
-    {
-        "id": 7,
-        "img": "https://images.pexels.com/photos/14479658/pexels-photo-14479658.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Corralera",
-        "descripcion": "",
-        "precio": "29.800"
-    },
-    {
-        "id": 8,
-        "img": "https://images.pexels.com/photos/8637870/pexels-photo-8637870.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "HbHawaiana",
-        "descripcion": "",
-        "precio": "17.500"
-    },
-    {
-        "id": 9,
-        "img": "https://images.pexels.com/photos/17283900/pexels-photo-17283900/free-photo-of-comida-taza-copa-flores.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "HbCosteña",
-        "descripcion": "",
-        "precio": "33.300"
-    },
-    {
-        "id": 10,
-        "img": "https://images.pexels.com/photos/19745103/pexels-photo-19745103/free-photo-of-comida-sano-vegetales-verduras.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Corral Pollo",
-        "descripcion": "",
-        "precio": "26.000"
-    },
-    {
-        "id": 11,
-        "img": "https://images.pexels.com/photos/3872370/pexels-photo-3872370.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Doble Doble",
-        "descripcion": "",
+        "titulo": "Ensalada Griega",
+        "descripcion": "Ensalada mediterránea con pepino, tomate, aceitunas, queso feta y cebolla roja.",
         "precio": "20.000"
     },
     {
-        "id": 12,
+        "id": 64,
+        "img": "https://images.pexels.com/photos/1639556/pexels-photo-1639556.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Ensalada Caprese",
+        "descripcion": "Tomates frescos, mozzarella y albahaca, aderezados con aceite de oliva y balsámico.",
+        "precio": "16.500"
+    },
+    {
+        "id": 65,
+        "img": "https://images.pexels.com/photos/1332275/pexels-photo-1332275.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Ensalada de Quinoa",
+        "descripcion": "Ensalada nutritiva con quinoa, aguacate, pimientos y un toque de limón.",
+        "precio": "24.000"
+    },
+    {
+        "id": 66,
+        "img": "https://images.pexels.com/photos/18363028/pexels-photo-18363028/free-photo-of-vegetales-verduras-restaurante-sopa.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Ensalada de Espinacas y Fresas",
+        "descripcion": "Mezcla de espinacas frescas, fresas, nueces y queso de cabra con vinagreta balsámica.",
+        "precio": "21.000"
+    },
+    {
+        "id": 67,
+        "img": "https://images.pexels.com/photos/14479658/pexels-photo-14479658.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Ensalada de Aguacate y Mango",
+        "descripcion": "Ensalada tropical con aguacate, mango, cilantro y aderezo de lima.",
+        "precio": "19.800"
+    },
+    {
+        "id": 68,
+        "img": "https://images.pexels.com/photos/8637870/pexels-photo-8637870.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Ensalada Waldorf",
+        "descripcion": "Clásica ensalada Waldorf con manzanas, apio, nueces y uvas, en mayonesa ligera.",
+        "precio": "17.500"
+    },
+    {
+        "id": 69,
+        "img": "https://images.pexels.com/photos/17283900/pexels-photo-17283900/free-photo-of-comida-taza-copa-flores.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Ensalada de Garbanzos",
+        "descripcion": "Ensalada saludable con garbanzos, tomate, pepino y perejil.",
+        "precio": "23.300"
+    },
+    {
+        "id": 70,
+        "img": "https://images.pexels.com/photos/19745103/pexels-photo-19745103/free-photo-of-comida-sano-vegetales-verduras.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Ensalada Cobb",
+        "descripcion": "Ensalada abundante con pollo, aguacate, huevo, tocino y queso azul.",
+        "precio": "26.000"
+    },
+    {
+        "id": 71,
+        "img": "https://images.pexels.com/photos/3872370/pexels-photo-3872370.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Ensalada de Atún",
+        "descripcion": "Fresca ensalada de atún con lechuga, tomate, huevo y aderezo de mostaza y miel.",
+        "precio": "20.000"
+    },
+    {
+        "id": 72,
         "img": "https://images.pexels.com/photos/3323687/pexels-photo-3323687.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "",
-        "descripcion": "Corral Criolla",
-        "precio": "35.100"
+        "titulo": "Ensalada de Remolacha y Naranja",
+        "descripcion": "Colorida ensalada con remolacha asada, rodajas de naranja y queso de cabra.",
+        "precio": "22.500"
     }
 ]

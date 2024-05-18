@@ -2,85 +2,85 @@
     {
         "id": 1,
         "img": "https://images.pexels.com/photos/580612/pexels-photo-580612.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "McNífica",
-        "descripcion": "",
+        "titulo": "Hamburguesa McNífica",
+        "descripcion": "Una deliciosa hamburguesa con queso cheddar, lechuga fresca, y una jugosa carne de res.",
         "precio": "38.000"
     },
     {
         "id": 2,
         "img": "https://images.pexels.com/photos/2702674/pexels-photo-2702674.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Big Mac",
-        "descripcion": "",
+        "titulo": "Big Mac Clásica",
+        "descripcion": "La icónica hamburguesa con doble carne, salsa especial, lechuga, queso, pepinillos y cebolla.",
         "precio": "23.000"
     },
     {
         "id": 3,
         "img": "https://images.pexels.com/photos/327158/pexels-photo-327158.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "McBacon",
-        "descripcion": "",
+        "titulo": "McBacon Deluxe",
+        "descripcion": "Hamburguesa con bacon crujiente, queso derretido, lechuga y tomate fresco.",
         "precio": "54.000"
     },
     {
         "id": 4,
         "img": "https://images.pexels.com/photos/2983099/pexels-photo-2983099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "HbCallejera",
-        "descripcion": "",
+        "titulo": "Hamburguesa Callejera",
+        "descripcion": "Sabor urbano con carne a la parrilla, salsa BBQ, cebolla caramelizada y queso cheddar.",
         "precio": "14.500"
     },
     {
         "id": 5,
         "img": "https://images.pexels.com/photos/2067403/pexels-photo-2067403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "TdCallejera",
-        "descripcion": "",
+        "titulo": "Hamburguesa Tradicional",
+        "descripcion": "Una mezcla clásica de carne de res, queso, tomate, lechuga y salsa especial.",
         "precio": "32.200"
     },
     {
         "id": 6,
         "img": "https://images.pexels.com/photos/3220617/pexels-photo-3220617.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "titulo": "Corral Casera",
-        "descripcion": "",
+        "descripcion": "Hamburguesa con ingredientes frescos y naturales, queso, lechuga y salsa de la casa.",
         "precio": "51.000"
     },
     {
         "id": 7,
         "img": "https://images.pexels.com/photos/2983103/pexels-photo-2983103.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Corralera",
-        "descripcion": "",
+        "titulo": "Hamburguesa Corralera",
+        "descripcion": "Con queso suizo, cebolla caramelizada, y una jugosa carne de res a la parrilla.",
         "precio": "29.800"
     },
     {
         "id": 8,
         "img": "https://images.pexels.com/photos/1624473/pexels-photo-1624473.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "HbHawaiana",
-        "descripcion": "",
+        "titulo": "Hamburguesa Hawaiana",
+        "descripcion": "Carne de res con piña a la parrilla, jamón, queso y salsa teriyaki.",
         "precio": "17.500"
     },
     {
         "id": 9,
         "img": "https://images.pexels.com/photos/1893558/pexels-photo-1893558.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "HbCosteña",
-        "descripcion": "",
+        "titulo": "Hamburguesa Costeña",
+        "descripcion": "Hamburguesa con sabores del Caribe, queso costeño, aguacate y salsa de mango.",
         "precio": "33.300"
     },
     {
         "id": 10,
         "img": "https://images.pexels.com/photos/2657960/pexels-photo-2657960.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Corral Pollo",
-        "descripcion": "",
+        "titulo": "Corral de Pollo",
+        "descripcion": "Hamburguesa de pollo empanizado con lechuga, tomate y salsa ranch.",
         "precio": "26.000"
     },
     {
         "id": 11,
         "img": "https://images.pexels.com/photos/2983104/pexels-photo-2983104.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Doble Doble",
-        "descripcion": "",
+        "titulo": "Doble Doble Especial",
+        "descripcion": "Dos carnes de res, doble queso cheddar, lechuga, tomate y salsa especial.",
         "precio": "20.000"
     },
     {
         "id": 12,
         "img": "https://images.pexels.com/photos/19898239/pexels-photo-19898239/free-photo-of-hombre-manos-comida-carne.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "",
-        "descripcion": "Corral Criolla",
+        "titulo": "Corral Criolla",
+        "descripcion": "Hamburguesa con carne a la parrilla, queso costeño, huevo frito, y salsa criolla.",
         "precio": "35.100"
     }
 ]

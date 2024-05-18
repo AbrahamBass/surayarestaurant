@@ -1,86 +1,86 @@
 [
     {
-        "id": 1,
+        "id": 13,
         "img": "https://images.pexels.com/photos/4518656/pexels-photo-4518656.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "McNífica",
-        "descripcion": "",
-        "precio": "38.000"
+        "titulo": "Hot Dog Clásico",
+        "descripcion": "Un delicioso hot dog con salchicha tradicional, mostaza, ketchup y cebolla.",
+        "precio": "12.000"
     },
     {
-        "id": 2,
+        "id": 14,
         "img": "https://images.pexels.com/photos/4676409/pexels-photo-4676409.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Big Mac",
-        "descripcion": "",
-        "precio": "23.000"
+        "titulo": "Hot Dog Americano",
+        "descripcion": "Hot dog con salchicha americana, queso cheddar, cebolla caramelizada y salsa BBQ.",
+        "precio": "15.000"
     },
     {
-        "id": 3,
+        "id": 15,
         "img": "https://images.pexels.com/photos/2261197/pexels-photo-2261197.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "McBacon",
-        "descripcion": "",
-        "precio": "54.000"
+        "titulo": "Hot Dog Bacon",
+        "descripcion": "Hot dog envuelto en bacon, con queso derretido y salsa ranch.",
+        "precio": "18.000"
     },
     {
-        "id": 4,
+        "id": 16,
         "img": "https://images.pexels.com/photos/3162040/pexels-photo-3162040.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "HbCallejera",
-        "descripcion": "",
-        "precio": "14.500"
+        "titulo": "Hot Dog Callejero",
+        "descripcion": "Un hot dog con salchicha ahumada, papas fritas trituradas, y salsa rosada.",
+        "precio": "10.000"
     },
     {
-        "id": 5,
+        "id": 17,
         "img": "https://images.pexels.com/photos/4676419/pexels-photo-4676419.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "TdCallejera",
-        "descripcion": "",
-        "precio": "32.200"
+        "titulo": "Hot Dog Tradicional",
+        "descripcion": "Hot dog con salchicha clásica, pepinillos, mostaza y ketchup.",
+        "precio": "11.500"
     },
     {
-        "id": 6,
+        "id": 18,
         "img": "https://images.pexels.com/photos/4551906/pexels-photo-4551906.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Corral Casera",
-        "descripcion": "",
-        "precio": "51.000"
+        "titulo": "Hot Dog Casero",
+        "descripcion": "Hot dog con salchicha artesanal, queso suizo, tomate fresco y mayonesa.",
+        "precio": "14.000"
     },
     {
-        "id": 7,
+        "id": 19,
         "img": "https://images.pexels.com/photos/4518643/pexels-photo-4518643.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Corralera",
-        "descripcion": "",
-        "precio": "29.800"
+        "titulo": "Hot Dog Especial",
+        "descripcion": "Hot dog con salchicha especial, queso fundido, cebolla caramelizada y salsa BBQ.",
+        "precio": "16.000"
     },
     {
-        "id": 8,
+        "id": 20,
         "img": "https://images.pexels.com/photos/19922919/pexels-photo-19922919/free-photo-of-hombre-mano-sin-rostro-sujetando.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "HbHawaiana",
-        "descripcion": "",
-        "precio": "17.500"
+        "titulo": "Hot Dog Hawaiano",
+        "descripcion": "Hot dog con salchicha, piña caramelizada, jamón y salsa teriyaki.",
+        "precio": "13.000"
     },
     {
-        "id": 9,
+        "id": 21,
         "img": "https://images.pexels.com/photos/12123657/pexels-photo-12123657.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "HbCosteña",
-        "descripcion": "",
-        "precio": "33.300"
+        "titulo": "Hot Dog Costeño",
+        "descripcion": "Hot dog con salchicha, aguacate, queso costeño y salsa de mango.",
+        "precio": "15.500"
     },
     {
-        "id": 10,
+        "id": 22,
         "img": "https://images.pexels.com/photos/4113458/pexels-photo-4113458.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Corral Pollo",
-        "descripcion": "",
-        "precio": "26.000"
+        "titulo": "Hot Dog de Pollo",
+        "descripcion": "Hot dog de salchicha de pollo, lechuga, tomate y salsa de ajo.",
+        "precio": "12.500"
     },
     {
-        "id": 11,
+        "id": 23,
         "img": "https://images.pexels.com/photos/4113454/pexels-photo-4113454.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Doble Doble",
-        "descripcion": "",
-        "precio": "20.000"
+        "titulo": "Hot Dog Doble",
+        "descripcion": "Hot dog con doble salchicha, doble queso cheddar, y cebolla crujiente.",
+        "precio": "17.000"
     },
     {
-        "id": 12,
+        "id": 24,
         "img": "https://images.pexels.com/photos/17778862/pexels-photo-17778862/free-photo-of-calle-carne-rapido-salchicha.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "",
-        "descripcion": "Corral Criolla",
-        "precio": "35.100"
+        "titulo": "Hot Dog Criollo",
+        "descripcion": "Hot dog con salchicha criolla, huevo frito, queso costeño y salsa criolla.",
+        "precio": "16.500"
     }
 ]

@@ -1,86 +1,86 @@
 [
     {
-        "id": 1,
+        "id": 121,
         "img": "https://images.pexels.com/photos/22696128/pexels-photo-22696128/free-photo-of-comida-sano-cuchara-desayuno.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "McNífica",
-        "descripcion": "",
-        "precio": "38.000"
+        "titulo": "Desayuno Continental",
+        "descripcion": "Incluye café, jugo de naranja, croissant y mermelada.",
+        "precio": "25.000"
     },
     {
-        "id": 2,
+        "id": 122,
         "img": "https://images.pexels.com/photos/19917465/pexels-photo-19917465/free-photo-of-una-bandeja-con-un-plato-de-comida-y-un-vaso-de-jugo-desayuno.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Big Mac",
-        "descripcion": "",
-        "precio": "23.000"
+        "titulo": "Desayuno Americano",
+        "descripcion": "Huevos revueltos, tocino, tostadas y café.",
+        "precio": "28.000"
     },
     {
-        "id": 3,
+        "id": 123,
         "img": "https://images.pexels.com/photos/19945396/pexels-photo-19945396/free-photo-of-comida-ensalada-beber-bebida.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "McBacon",
-        "descripcion": "",
-        "precio": "54.000"
+        "titulo": "Desayuno Saludable",
+        "descripcion": "Yogur con granola, frutas frescas y té verde.",
+        "precio": "30.000"
     },
     {
-        "id": 4,
+        "id": 124,
         "img": "https://images.pexels.com/photos/19934417/pexels-photo-19934417/free-photo-of-cafe-expreso-cafe-expres-mesa.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "HbCallejera",
-        "descripcion": "",
-        "precio": "14.500"
+        "titulo": "Desayuno Exprés",
+        "descripcion": "Café y un sándwich de jamón y queso.",
+        "precio": "18.500"
     },
     {
-        "id": 5,
+        "id": 125,
         "img": "https://images.pexels.com/photos/19904786/pexels-photo-19904786/free-photo-of-pan-plato-desayuno-semillas.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "TdCallejera",
-        "descripcion": "",
+        "titulo": "Desayuno Campestre",
+        "descripcion": "Pan rústico, huevos al gusto, y jugo natural.",
         "precio": "32.200"
     },
     {
-        "id": 6,
+        "id": 126,
         "img": "https://images.pexels.com/photos/19904791/pexels-photo-19904791/free-photo-of-plato-menu-tomates-desayuno.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Corral Casera",
-        "descripcion": "",
-        "precio": "51.000"
+        "titulo": "Desayuno Mediterráneo",
+        "descripcion": "Ensalada de tomate y pepino, queso feta y aceitunas.",
+        "precio": "35.000"
     },
     {
-        "id": 7,
+        "id": 127,
         "img": "https://images.pexels.com/photos/20123614/pexels-photo-20123614/free-photo-of-ensalada-cafe-comida-desayuno.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Corralera",
-        "descripcion": "",
+        "titulo": "Desayuno Vegano",
+        "descripcion": "Tofu revuelto, tostadas de aguacate y jugo verde.",
         "precio": "29.800"
     },
     {
-        "id": 8,
+        "id": 128,
         "img": "https://images.pexels.com/photos/19898663/pexels-photo-19898663/free-photo-of-pan-desayuno-tenedor-bifurcacion.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "HbHawaiana",
-        "descripcion": "",
-        "precio": "17.500"
+        "titulo": "Desayuno Clásico",
+        "descripcion": "Huevos fritos, salchichas, pan tostado y café.",
+        "precio": "22.500"
     },
     {
-        "id": 9,
+        "id": 129,
         "img": "https://images.pexels.com/photos/21997932/pexels-photo-21997932/free-photo-of-desayuno.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "HbCosteña",
-        "descripcion": "",
-        "precio": "33.300"
+        "titulo": "Desayuno Tropical",
+        "descripcion": "Frutas tropicales, yogur y granola.",
+        "precio": "27.300"
     },
     {
-        "id": 10,
+        "id": 130,
         "img": "https://images.pexels.com/photos/8755970/pexels-photo-8755970.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Corral Pollo",
-        "descripcion": "",
+        "titulo": "Desayuno Energético",
+        "descripcion": "Avena, nueces, frutas secas y leche vegetal.",
         "precio": "26.000"
     },
     {
-        "id": 11,
+        "id": 131,
         "img": "https://images.pexels.com/photos/10597631/pexels-photo-10597631.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Doble Doble",
-        "descripcion": "",
-        "precio": "20.000"
+        "titulo": "Desayuno Gourmet",
+        "descripcion": "Omelette de espinacas, salmón ahumado y café.",
+        "precio": "33.000"
     },
     {
-        "id": 12,
+        "id": 132,
         "img": "https://images.pexels.com/photos/9428260/pexels-photo-9428260.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "",
-        "descripcion": "Corral Criolla",
+        "titulo": "Desayuno Criollo",
+        "descripcion": "Arepas, queso fresco, huevos pericos y chocolate caliente.",
         "precio": "35.100"
     }
 ]

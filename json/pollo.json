@@ -1,86 +1,86 @@
 [
     {
-        "id": 1,
+        "id": 25,
         "img": "https://images.pexels.com/photos/2833499/pexels-photo-2833499.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "McNífica",
-        "descripcion": "",
-        "precio": "38.000"
-    },
-    {
-        "id": 2,
-        "img": "https://images.pexels.com/photos/1123249/pexels-photo-1123249.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Big Mac",
-        "descripcion": "",
-        "precio": "23.000"
-    },
-    {
-        "id": 3,
-        "img": "https://images.pexels.com/photos/6941021/pexels-photo-6941021.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "McBacon",
-        "descripcion": "",
-        "precio": "54.000"
-    },
-    {
-        "id": 4,
-        "img": "https://images.pexels.com/photos/2317540/pexels-photo-2317540.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "HbCallejera",
-        "descripcion": "",
-        "precio": "14.500"
-    },
-    {
-        "id": 5,
-        "img": "https://images.pexels.com/photos/8998354/pexels-photo-8998354.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "TdCallejera",
-        "descripcion": "",
-        "precio": "32.200"
-    },
-    {
-        "id": 6,
-        "img": "https://images.pexels.com/photos/11502373/pexels-photo-11502373.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Corral Casera",
-        "descripcion": "",
-        "precio": "51.000"
-    },
-    {
-        "id": 7,
-        "img": "https://images.pexels.com/photos/14686445/pexels-photo-14686445.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Corralera",
-        "descripcion": "",
-        "precio": "29.800"
-    },
-    {
-        "id": 8,
-        "img": "https://images.pexels.com/photos/9609836/pexels-photo-9609836.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "HbHawaiana",
-        "descripcion": "",
-        "precio": "17.500"
-    },
-    {
-        "id": 9,
-        "img": "https://images.pexels.com/photos/958544/pexels-photo-958544.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "HbCosteña",
-        "descripcion": "",
-        "precio": "33.300"
-    },
-    {
-        "id": 10,
-        "img": "https://images.pexels.com/photos/10813331/pexels-photo-10813331.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Corral Pollo",
-        "descripcion": "",
-        "precio": "26.000"
-    },
-    {
-        "id": 11,
-        "img": "https://images.pexels.com/photos/8228463/pexels-photo-8228463.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Doble Doble",
-        "descripcion": "",
+        "titulo": "Pollo Asado Clásico",
+        "descripcion": "Un delicioso pollo asado con especias tradicionales, cocido a la perfección.",
         "precio": "20.000"
     },
     {
-        "id": 12,
+        "id": 26,
+        "img": "https://images.pexels.com/photos/1123249/pexels-photo-1123249.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Pollo Broaster",
+        "descripcion": "Pollo crujiente y jugoso, frito al estilo broaster con un rebozado especial.",
+        "precio": "25.000"
+    },
+    {
+        "id": 27,
+        "img": "https://images.pexels.com/photos/6941021/pexels-photo-6941021.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Pollo BBQ",
+        "descripcion": "Pollo asado bañado en una sabrosa salsa BBQ, con un toque ahumado.",
+        "precio": "28.000"
+    },
+    {
+        "id": 28,
+        "img": "https://images.pexels.com/photos/2317540/pexels-photo-2317540.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Pollo Asado Picante",
+        "descripcion": "Pollo asado con un marinado picante, perfecto para los amantes del picante.",
+        "precio": "22.500"
+    },
+    {
+        "id": 29,
+        "img": "https://images.pexels.com/photos/8998354/pexels-photo-8998354.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Pollo Asado con Hierbas",
+        "descripcion": "Pollo asado con una mezcla de hierbas frescas, ofreciendo un sabor aromático.",
+        "precio": "24.000"
+    },
+    {
+        "id": 30,
+        "img": "https://images.pexels.com/photos/11502373/pexels-photo-11502373.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Pollo Broaster Extra Crujiente",
+        "descripcion": "Pollo broaster con una capa extra crujiente, perfecto para los que aman la textura crujiente.",
+        "precio": "26.500"
+    },
+    {
+        "id": 31,
+        "img": "https://images.pexels.com/photos/14686445/pexels-photo-14686445.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Pollo Asado a la Naranja",
+        "descripcion": "Pollo asado glaseado con una salsa de naranja dulce y cítrica.",
+        "precio": "23.500"
+    },
+    {
+        "id": 32,
+        "img": "https://images.pexels.com/photos/9609836/pexels-photo-9609836.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Pollo Asado Hawaiano",
+        "descripcion": "Pollo asado con piña y una mezcla de especias tropicales.",
+        "precio": "27.000"
+    },
+    {
+        "id": 33,
+        "img": "https://images.pexels.com/photos/958544/pexels-photo-958544.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Pollo Asado al Limón",
+        "descripcion": "Pollo asado con un toque fresco de limón y ajo.",
+        "precio": "21.000"
+    },
+    {
+        "id": 34,
+        "img": "https://images.pexels.com/photos/10813331/pexels-photo-10813331.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Pollo Broaster Tradicional",
+        "descripcion": "Pollo frito al estilo broaster con una receta tradicional.",
+        "precio": "19.500"
+    },
+    {
+        "id": 35,
+        "img": "https://images.pexels.com/photos/8228463/pexels-photo-8228463.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Pollo Asado a la Parrilla",
+        "descripcion": "Pollo asado lentamente a la parrilla para un sabor ahumado.",
+        "precio": "30.000"
+    },
+    {
+        "id": 36,
         "img": "https://images.pexels.com/photos/11502306/pexels-photo-11502306.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "",
-        "descripcion": "Corral Criolla",
-        "precio": "35.100"
+        "titulo": "Pollo Broaster Especial",
+        "descripcion": "Pollo broaster con una mezcla especial de especias y una textura crujiente perfecta.",
+        "precio": "29.000"
     }
 ]

@@ -1,0 +1,65 @@
+.container-details-food {
+    /* height: 100vh; */
+    padding: 70px 100px 0 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.img-food-single {
+    height: 100vh;
+    width: 480px;
+    /* width: 50vw; */
+}
+
+#title-food {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 60px;
+    color: #484848;
+}
+
+#price-food {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 30px;
+    color: #484848;
+}
+
+#description-food {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 20px;
+    color: #484848;
+}
+
+.btn-add {
+    padding: 10px;
+    background-color: #484848;
+    width: 100%;
+    border: none;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 17px;
+    color: white;
+    cursor: pointer;
+}
+
+.icon-food {
+    height: 30px;
+}
+
+.container-info {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}

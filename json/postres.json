@@ -1,86 +1,86 @@
 [
     {
-        "id": 1,
+        "id": 49,
         "img": "https://images.pexels.com/photos/2373520/pexels-photo-2373520.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "McNífica",
-        "descripcion": "",
-        "precio": "38.000"
+        "titulo": "Cheesecake de Fresa",
+        "descripcion": "Delicioso cheesecake con una base crujiente y cubierto con fresas frescas.",
+        "precio": "15.000"
     },
     {
-        "id": 2,
+        "id": 50,
         "img": "https://images.pexels.com/photos/3992134/pexels-photo-3992134.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Big Mac",
-        "descripcion": "",
-        "precio": "23.000"
+        "titulo": "Brownie de Chocolate",
+        "descripcion": "Brownie de chocolate oscuro, servido con una bola de helado de vainilla.",
+        "precio": "12.000"
     },
     {
-        "id": 3,
+        "id": 51,
         "img": "https://images.pexels.com/photos/2693447/pexels-photo-2693447.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "McBacon",
-        "descripcion": "",
-        "precio": "54.000"
+        "titulo": "Tiramisú Clásico",
+        "descripcion": "Tradicional postre italiano con capas de mascarpone, café y cacao.",
+        "precio": "18.000"
     },
     {
-        "id": 4,
+        "id": 52,
         "img": "https://images.pexels.com/photos/2067396/pexels-photo-2067396.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "HbCallejera",
-        "descripcion": "",
-        "precio": "14.500"
+        "titulo": "Helado de Mango",
+        "descripcion": "Refrescante helado de mango hecho con fruta natural.",
+        "precio": "10.000"
     },
     {
-        "id": 5,
+        "id": 53,
         "img": "https://images.pexels.com/photos/1055272/pexels-photo-1055272.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "TdCallejera",
-        "descripcion": "",
-        "precio": "32.200"
-    },
-    {
-        "id": 6,
-        "img": "https://images.pexels.com/photos/913136/pexels-photo-913136.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Corral Casera",
-        "descripcion": "",
-        "precio": "51.000"
-    },
-    {
-        "id": 7,
-        "img": "https://images.pexels.com/photos/8380252/pexels-photo-8380252.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Corralera",
-        "descripcion": "",
-        "precio": "29.800"
-    },
-    {
-        "id": 8,
-        "img": "https://images.pexels.com/photos/8104733/pexels-photo-8104733.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "HbHawaiana",
-        "descripcion": "",
-        "precio": "17.500"
-    },
-    {
-        "id": 9,
-        "img": "https://images.pexels.com/photos/18955555/pexels-photo-18955555/free-photo-of-vaso-cristal-vidrio-azucar.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "HbCosteña",
-        "descripcion": "",
-        "precio": "33.300"
-    },
-    {
-        "id": 10,
-        "img": "https://images.pexels.com/photos/8104732/pexels-photo-8104732.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Corral Pollo",
-        "descripcion": "",
-        "precio": "26.000"
-    },
-    {
-        "id": 11,
-        "img": "https://images.pexels.com/photos/3547176/pexels-photo-3547176.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "Doble Doble",
-        "descripcion": "",
+        "titulo": "Crème Brûlée",
+        "descripcion": "Postre francés de crema suave con una capa crujiente de caramelo.",
         "precio": "20.000"
     },
     {
-        "id": 12,
+        "id": 54,
+        "img": "https://images.pexels.com/photos/913136/pexels-photo-913136.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Pavlova de Frutas",
+        "descripcion": "Postre ligero de merengue, crema batida y frutas frescas.",
+        "precio": "14.000"
+    },
+    {
+        "id": 55,
+        "img": "https://images.pexels.com/photos/8380252/pexels-photo-8380252.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Tarta de Manzana",
+        "descripcion": "Clásica tarta de manzana servida caliente con helado de vainilla.",
+        "precio": "16.000"
+    },
+    {
+        "id": 56,
+        "img": "https://images.pexels.com/photos/8104733/pexels-photo-8104733.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Flan de Caramelo",
+        "descripcion": "Suave flan cubierto con una rica salsa de caramelo.",
+        "precio": "13.000"
+    },
+    {
+        "id": 57,
+        "img": "https://images.pexels.com/photos/18955555/pexels-photo-18955555/free-photo-of-vaso-cristal-vidrio-azucar.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Panna Cotta",
+        "descripcion": "Postre italiano de crema cocida, servido con coulis de frutas del bosque.",
+        "precio": "17.000"
+    },
+    {
+        "id": 58,
+        "img": "https://images.pexels.com/photos/8104732/pexels-photo-8104732.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Gelato de Pistacho",
+        "descripcion": "Helado italiano cremoso con auténtico sabor a pistacho.",
+        "precio": "11.000"
+    },
+    {
+        "id": 59,
+        "img": "https://images.pexels.com/photos/3547176/pexels-photo-3547176.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "titulo": "Eclair de Chocolate",
+        "descripcion": "Pastel francés relleno de crema y cubierto con chocolate.",
+        "precio": "12.500"
+    },
+    {
+        "id": 60,
         "img": "https://images.pexels.com/photos/15455309/pexels-photo-15455309/free-photo-of-comida-chocolate-bombon-dulce.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "titulo": "",
-        "descripcion": "Corral Criolla",
-        "precio": "35.100"
+        "titulo": "Macarons",
+        "descripcion": "Delicados macarons franceses en variedad de sabores.",
+        "precio": "15.500"
     }
 ]
