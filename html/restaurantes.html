@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/restaurante.css" type="text/css">
+    <link rel="stylesheet" href="../css/index.css" type="text/css">
+    <link rel="stylesheet" href="../css/session.css" type="text/css">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Anton&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin=""/>
+     <!-- Make sure you put this AFTER Leaflet's CSS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin=""></script>
+    <title>Restaurantes</title>
+</head>
+<body>
+   <div>
+        <header-component href="bolsa.html" src="../img/svg"></header-component>        
+        <main class="container-main-restaurants">
+            <div class="container-restaurantes">
+                <div>
+                    <h2 class="titulo-restaurantes">Restaurantes</h2>
+                </div>
+                <div class="container-sitio">
+                    <h4 class="titulo-sitio">Universidad</h4>
+                    <p class="p-direccion">Cl. 29h #21b-243 a 21b-141</p>
+                    <p class="p-direccion">08:00 AM a 10:00 PM</p>
+                </div>
+                <div class="container-sitio">
+                    <h4 class="titulo-sitio">Ocean Mall</h4>
+                    <p class="p-direccion">Cl 29D #15-93 a 15-3</p>
+                    <p class="p-direccion">10:00 AM a 7:00 PM</p>
+                </div>
+                <div class="container-sitio">
+                    <h4 class="titulo-sitio">Ferrocarril</h4>
+                    <p class="p-direccion">11.237391, -74.205286</p>
+                    <p class="p-direccion">06:00 AM a 11:00 PM</p>
+                </div>
+                <div class="container-sitio">
+                    <h4 class="titulo-sitio">Parque De Los Novios</h4>
+                    <p class="p-direccion">Cra. 3 #20-69 a 20-1</p>
+                    <p class="p-direccion">08:00 AM a 10:00 PM</p>
+                </div>
+                <div class="container-sitio">
+                    <h4 class="titulo-sitio">Buenavista</h4>
+                    <p class="p-direccion">Cl. 39 #35-39 a 35-1</p>
+                    <p class="p-direccion">07:00 AM a 1:00 AM</p>
+                </div>
+            </div>
+            <div>
+                <div id="map"></div>
+            </div>
+        </main>
+        <session-component src="../img/svg"></session-component>
+   </div>
+    <script src="../js/restaurantes.js"></script>
+    <script src="../js/header.js"></script>
+    <script src="../js/session.js"></script>
+</body>
+</html>

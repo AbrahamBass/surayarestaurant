@@ -1,0 +1,72 @@
+.container-main-bolsa {
+    padding: 20px 100px 50px 100px;
+}
+
+.titulo-bolsa {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 60px;
+    color: #484848;
+}
+
+.container-icon-close-bolsa {
+    display: flex;
+    justify-content: flex-end;
+    padding: 15px 40px;
+
+}
+
+.titulo-total {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 40px;
+    color: #484848;
+}
+
+.container-price-food {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.container-total {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.titulo-food {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 30px;
+    color: #484848;
+}
+
+.container-food-single {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.container-base-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn-continuar {
+    padding: 10px 30px;
+    background-color: #484848;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 15px;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}

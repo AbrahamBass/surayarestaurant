@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/index.css" type="text/css">
+    <link rel="stylesheet" href="css/session.css" type="text/css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
@@ -14,16 +15,16 @@
 <body>
 <div class="container-index">
 
-    <header-component src="img/svg"></header-component>
+    <header-component href="html/bolsa.html" src="img/svg"></header-component>
 
     <main>
         <section class="container-imgs">
-            <div class="container-img-uno">
-                <div class="sub-container-img-uno">
+            <div  class="container-img-uno">
+                <div id="btn-linea" class="sub-container-img-uno">
                     <h1>PIDE EN LINEA</h1>
                 </div>
             </div>
-            <div class="container-img-dos">
+            <div id="btn-restaurants" class="container-img-dos">
                 <div class="sub-container-img-dos">
                     <h1>RESTAURANTES</h1>
                 </div>
@@ -35,10 +36,12 @@
             </div>
         </section>
         <footer-component src="img/svg"></footer-component>
+        <session-component src="img/svg"></session-component>
     </main>
 </div>
 <script src="js/index.js"></script>
 <script src="js/header.js"></script>
 <script src="js/footer.js"></script>
+<script src="js/session.js"></script>
 </body>
 </html>

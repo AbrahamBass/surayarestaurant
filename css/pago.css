@@ -1,0 +1,57 @@
+.titulo-envio {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 60px;
+    color: #484848;
+}
+
+.container-main-pago {
+    padding: 30px 100px;
+}
+
+.container-icon-close-bolsa {
+    display: flex;
+    justify-content: flex-end;
+    padding: 15px 40px;
+}
+
+input {
+    padding: 10px;
+    background-color: transparent;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 15px;
+    color: #484848;
+    outline: none;
+}
+
+.container-inputs {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    /* padding: 0 300px; */
+}
+
+.btn-continuar {
+    padding: 10px 30px;
+    background-color: #484848;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 15px;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.container-total {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
